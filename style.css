@@ -1,0 +1,28 @@
+body {
+  background-color:#2a2b2d;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px  ;
+  color: #b39d09;
+  }
+h2 {
+  color: #716519;
+  margin-top: 45px ;
+}
+#musica {
+  border: 7px inset #b39d09;
+  padding: ;
+  margin-top: 20px ;
+  width: 60%;
+  height: 60%;
+}
+li {
+  color: #b39d09;
+}
+img{
+  width: 70%;
+  height: 70%;
+  border: 7px inset #992424;
+}
